@@ -1,0 +1,145 @@
+[admin.py:29] - 2023-07-06 00:28:28,358 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-07-06 00:28:28,359 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-07-06 00:28:28,365 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\jonga\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', 'C:\\Users\\jonga\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-07-06 00:28:28,365 - INFO - Running command 'C:\\Users\\jonga\\AppData\\Local\\Programs\\Python\\Python311\\python.exe' - 'C:\\Users\\jonga\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-07-06 00:28:30,166 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,294 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,294 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,294 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,294 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,294 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,294 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,294 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,294 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,294 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-06 00:28:30,295 - DEBUG - STREAM b'IDAT' 91 1063
+[admin.py:92] - 2023-07-06 00:28:33,848 - INFO - Process handle <PyHANDLE:1596> returned code -1073741510
+[admin.py:29] - 2023-07-06 00:28:39,646 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-07-06 00:28:39,646 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-07-06 00:28:39,652 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\jonga\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', 'C:\\Users\\jonga\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-07-06 00:28:39,652 - INFO - Running command 'C:\\Users\\jonga\\AppData\\Local\\Programs\\Python\\Python311\\python.exe' - 'C:\\Users\\jonga\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-07-06 00:28:41,511 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,606 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,606 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,606 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,606 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,606 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,606 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,607 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,608 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,608 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,608 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-06 00:28:41,608 - DEBUG - STREAM b'IDAT' 91 1063
+[builder.pyw:425] - 2023-07-06 00:44:54,179 - INFO - Retrieved filename: arabic grabber
+[builder.pyw:394] - 2023-07-06 00:44:54,179 - INFO - Changed filetype: cxfreeze
+[builder.pyw:394] - 2023-07-06 00:44:54,179 - INFO - Changed filetype: cxfreeze
+[builder.pyw:394] - 2023-07-06 00:44:54,179 - INFO - Changed filetype: cxfreeze
+[builder.pyw:445] - 2023-07-06 00:44:54,188 - INFO - Successfully changed config
+[builder.pyw:517] - 2023-07-06 00:45:05,547 - INFO - Successfully compiled arabic grabber.exe with cxfreeze
+[admin.py:29] - 2023-07-06 00:45:17,469 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-07-06 00:45:17,469 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-07-06 00:45:17,475 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\jonga\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', 'C:\\Users\\jonga\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-07-06 00:45:17,475 - INFO - Running command 'C:\\Users\\jonga\\AppData\\Local\\Programs\\Python\\Python311\\python.exe' - 'C:\\Users\\jonga\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-07-06 00:45:19,508 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,632 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,632 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,632 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,632 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,632 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,632 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,632 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,632 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,632 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,632 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-06 00:45:19,633 - DEBUG - STREAM b'IDAT' 91 1063
+[admin.py:92] - 2023-07-06 00:46:01,913 - INFO - Process handle <PyHANDLE:1592> returned code 0
+[admin.py:29] - 2023-07-06 00:50:49,029 - INFO - isUserAdmin - CheckTokenMembership returned: False
+[builder.pyw:603] - 2023-07-06 00:50:49,029 - ERROR - File must be run with admin privileges
+[admin.py:70] - 2023-07-06 00:50:49,034 - DEBUG - Defaulting to runAsAdmin command line: ['C:\\Users\\jonga\\AppData\\Local\\Programs\\Python\\Python311\\python.exe', 'C:\\Users\\jonga\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw']
+[admin.py:80] - 2023-07-06 00:50:49,034 - INFO - Running command 'C:\\Users\\jonga\\AppData\\Local\\Programs\\Python\\Python311\\python.exe' - 'C:\\Users\\jonga\\Downloads\\Luna-Grabber-main\\Luna-Grabber-main\\builder.pyw'
+[admin.py:29] - 2023-07-06 00:50:50,698 - INFO - isUserAdmin - CheckTokenMembership returned: True
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,797 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,797 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,797 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,797 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,797 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,797 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,797 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,797 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,797 - DEBUG - STREAM b'IDAT' 54 8192
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,797 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,797 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'IDAT' 91 766
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'IDAT' 91 601
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'IHDR' 16 13
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'sRGB' 41 1
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'gAMA' 54 4
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'pHYs' 70 9
+[PngImagePlugin.py:190] - 2023-07-06 00:50:50,798 - DEBUG - STREAM b'IDAT' 91 1063
+[admin.py:92] - 2023-07-06 00:50:53,706 - INFO - Process handle <PyHANDLE:1588> returned code 0
+[connectionpool.py:1048] - 2023-07-06 00:51:59,426 - DEBUG - Starting new HTTPS connection (1): discord.com:443
+[connectionpool.py:546] - 2023-07-06 00:51:59,641 - DEBUG - https://discord.com:443 "GET /api/webhooks/1126284188308492309/jJQ6p76AmIdjo3dtCzUCJ5W4FAy_boZGHb_oPruajQGlFPHcGPkujzjpGGnQYDpK1c8k HTTP/1.1" 200 None
+[builder.pyw:425] - 2023-07-06 00:58:08,156 - INFO - Retrieved filename: empyrean grabber
+[builder.pyw:394] - 2023-07-06 00:58:08,157 - INFO - Changed filetype: cxfreeze
+[builder.pyw:394] - 2023-07-06 00:58:08,157 - INFO - Changed filetype: cxfreeze
+[builder.pyw:394] - 2023-07-06 00:58:08,157 - INFO - Changed filetype: cxfreeze
+[builder.pyw:445] - 2023-07-06 00:58:08,158 - INFO - Successfully changed config
+[builder.pyw:517] - 2023-07-06 00:58:19,201 - INFO - Successfully compiled empyrean grabber.exe with cxfreeze
+[builder.pyw:425] - 2023-07-06 01:14:08,898 - INFO - Retrieved filename: empyrean grabber
+[builder.pyw:394] - 2023-07-06 01:14:08,898 - INFO - Changed filetype: cxfreeze
+[builder.pyw:394] - 2023-07-06 01:14:08,898 - INFO - Changed filetype: cxfreeze
+[builder.pyw:394] - 2023-07-06 01:14:08,898 - INFO - Changed filetype: cxfreeze
+[builder.pyw:445] - 2023-07-06 01:14:08,899 - INFO - Successfully changed config
+[builder.pyw:517] - 2023-07-06 01:14:19,724 - INFO - Successfully compiled empyrean grabber.exe with cxfreeze
+[builder.pyw:425] - 2023-07-06 01:15:23,610 - INFO - Retrieved filename: empyrean  grabber
+[builder.pyw:394] - 2023-07-06 01:15:23,610 - INFO - Changed filetype: cxfreeze
+[builder.pyw:394] - 2023-07-06 01:15:23,610 - INFO - Changed filetype: cxfreeze
+[builder.pyw:394] - 2023-07-06 01:15:23,610 - INFO - Changed filetype: cxfreeze
+[builder.pyw:445] - 2023-07-06 01:15:23,611 - INFO - Successfully changed config
+[builder.pyw:517] - 2023-07-06 01:15:34,441 - INFO - Successfully compiled empyrean  grabber.exe with cxfreeze
